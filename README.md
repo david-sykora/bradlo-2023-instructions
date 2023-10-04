@@ -12,6 +12,9 @@ bod.
 Každý tým má separátní cluster, ke kterému přistupuje přes kubeconfig, který jim bude přidělen při startu cvičení. Dále
 jsou týmu přiděleny 2 A DNS záznamy pro přístup ke službám pinguin a facebug.
 
+> Kubeconfig naleznete na [https://static.haxagon.xyz/heslo-tymu](https://static.haxagon.xyz/heslo-tymu)
+
+
 Tyto DNS záznamy jsou:
 
 - team **Moře**:
