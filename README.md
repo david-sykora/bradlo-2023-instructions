@@ -105,6 +105,13 @@ Pravidla:
 - Zákaz umisťování kačeny do těžko dostupných míst
 - V případě, že kačena vykazuje chybové chování, tak neprodleně závadu nahlašte
 
+Do kačen zapisujte tyto idetifikátory týmů:
+- team **Moře**: `6519c6bc3cee6044542a196e`
+- team **Ouagadougou**: `6519c6bc3cee6044542a196d`
+- team **phoenix**: `6519c6bc3cee6044542a196c`
+- team **Raptoři 🦖**: `6519c6bc3cee6044542a196b`
+- team **SVN**: `6519c6bc3cee6044542a196a`
+- team **Neposlouchám hip-hop**: `6519c6bc3cee6044542a1969`
 
 ### 3. Tickets
 
@@ -125,8 +132,20 @@ Odevzdávací portál je dostupný na adrese: https://bradlo.testing.haxagon.xyz
 
 Vyberte v něm prosím svůj tým a vyplňte secret z papírku.
 
-(Mapa rozmístění)[https://static.haxagon.xyz/map.png]
+[Mapa rozmístění](https://static.haxagon.xyz/map.png)
 
 ### 4. Analfabetova výzva
 
 Vyzvěte Analfabeta v souboji o rychlost. Před jídelnou vyhledejte Sama s Bárou.
+
+### 5. Casino Las Vegas
+
+Přijď do lobby za Filipem & Alanem znásobit svoje body nebo prohrát kalhoty.
+
+### 6. Sportovní šampion
+
+U Filipa & Alana se můžeš stát šampionem sportu. Vyzvi jiný tým na souboj v některém ze sportů až vyhraj **100 bodů**.
+
+### 7. Cháron
+
+Obstojíš před Cháronem? Pokud ano, získáš **300 bodů**. U bazénu najdi Sama.
