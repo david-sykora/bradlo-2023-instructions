@@ -79,6 +79,33 @@ Je třeba aby byl zachován přesný stav databáze, který je pro cvičení př
 
 [Source Code](https://github.com/david-sykora/facebug)
 
+### 2. Kačena
+
+Kačena je předmět. Tento předmět je velmi vzácný. Tento vzácný předmět je úkolem najít. V momentě, kdy ho tým najde, tak
+se k němu připojí pomocí Ethernetu. V případě jedné kačeny se dokonce musí nakrimpovat konektor RJ45.
+
+Aby se síťová komunikace s kačenou mohla navázat, tak jí musíte pomocí DHCP nabídnout IP adresu. Tento DHCP server
+musíte pochopitelně spustit na svém počítači... Potom co bude kačena dostupná na síti, tak se k ní připojíte pomocí SSH.
+Přístupové údaje na SSH jsou pro obě kačeny:
+
+- username: challenger
+- password: zadek
+
+Po přihlášení na SSH se otevře textový editor. Upravte otevřený soubor, aby obsahoval pouze ID vašeho týmu. Od tohoto
+okamžiku bude kačena každou minutu připisovat 5 bodů týmu jekož ID je uloženo v kačeně.
+
+Ale pozor! Kačena je nerada daleko od svého domečku - terasy před jídelnou. Pokud se vzdálí příliš, tak začne hlasitě
+nadávat a přestane přičítat body!
+
+Pravidla:
+
+- Zákaz manipulace s jinými fyzickými porty, než je síťový RJ45 (u krimpovací kačeny je dovoleno pouze manipulovat s
+  nenakrimpovaných UTP kabelem)
+- Zákaz ovládání reproduktoru kačeny
+- Zákaz umisťování kačeny do těžko dostupných míst
+- V případě, že kačena vykazuje chybové chování, tak neprodleně závadu nahlašte
+
+
 ### 3. Tickets
 
 Tickety neboli papirky jsou digitální prolnutí s fyzickou realitou.
