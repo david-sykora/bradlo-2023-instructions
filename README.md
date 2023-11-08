@@ -12,30 +12,37 @@ bod.
 Každý tým má separátní cluster, ke kterému přistupuje přes kubeconfig, který jim bude přidělen při startu cvičení. Dále
 jsou týmu přiděleny 2 A DNS záznamy pro přístup ke službám pinguin a facebug.
 
-> Kubeconfig naleznete na [https://static.haxagon.xyz/heslo-tymu](https://static.haxagon.xyz/heslo-tymu)
+> Kubeconfig a SSH credentials k serverům naleznete na [https://static.haxagon.xyz/heslo-tymu](https://static.haxagon.xyz/heslo-tymu)
 
 
 Tyto DNS záznamy jsou:
 
-- team **Moře**:
+- team **Rybičky**:
     - [pinguin](http://pinguin.team1.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team1.bradlo.testing.haxagon.xyz)
-- team **Ouagadougou**:
+- team **30cm**:
     - [pinguin](http://pinguin.team2.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team2.bradlo.testing.haxagon.xyz)
-- team **phoenix**:
+- team **CP enjoyers**:
     - [pinguin](http://pinguin.team3.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team3.bradlo.testing.haxagon.xyz)
-- team **Raptoři 🦖**:
+- team **Spektrum Party**:
     - [pinguin](http://pinguin.team4.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team4.bradlo.testing.haxagon.xyz)
-- team **SVN**:
+- team **Fazeballs**:
     - [pinguin](http://pinguin.team5.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team5.bradlo.testing.haxagon.xyz)
-- team **Neposlouchám hip-hop**:
+- team **TOP 8**:
     - [pinguin](http://pinguin.team6.bradlo.testing.haxagon.xyz)
     - [facebug](http://facebug.team6.bradlo.testing.haxagon.xyz)
-
+- team **Guysnickers**:
+    - [pinguin](http://pinguin.team7.bradlo.testing.haxagon.xyz)
+    - [facebug](http://facebug.team7.bradlo.testing.haxagon.xyz)
+- team **kýbl**:
+    - [pinguin](http://pinguin.team8.bradlo.testing.haxagon.xyz)
+    - [facebug](http://facebug.team8.bradlo.testing.haxagon.xyz)
+ 
+  
 #### 1.1. Pinguin
 
 Jednoduchá služba pro monitorování dostupnosti webových stránek.
@@ -106,12 +113,14 @@ Pravidla:
 - V případě, že kačena vykazuje chybové chování, tak neprodleně závadu nahlašte
 
 Do kačen zapisujte tyto idetifikátory týmů:
-- team **Moře**: `6519c6bc3cee6044542a196e`
-- team **Ouagadougou**: `6519c6bc3cee6044542a196d`
-- team **phoenix**: `6519c6bc3cee6044542a196c`
-- team **Raptoři 🦖**: `6519c6bc3cee6044542a196b`
-- team **SVN**: `6519c6bc3cee6044542a196a`
-- team **Neposlouchám hip-hop**: `6519c6bc3cee6044542a1969`
+- team **Rybičky**: `6519c6bc3cee6044542a196e`
+- team **30cm**: `6519c6bc3cee6044542a196d`
+- team **CP enjoyers**: `6519c6bc3cee6044542a196c`
+- team **Spektrum Party**: `6519c6bc3cee6044542a196b`
+- team **Fazeballs**: `6519c6bc3cee6044542a196a`
+- team **TOP 8**: `6519c6bc3cee6044542a1969`
+- team **Guysnickers**: `654bc83056dfa90878785e0b`
+- team **kýbl**: `654bc83d56dfa90878785e0c`
 
 ### 3. Tickets
 
@@ -136,7 +145,7 @@ Vyberte v něm prosím svůj tým a vyplňte secret z papírku.
 
 ### 4. Analfabetova výzva
 
-Vyzvěte Analfabeta v souboji o rychlost. Před jídelnou vyhledejte Sama s Bárou.
+Vyzvěte Analfabeta v souboji o rychlost. Ve vestibulu hlavní budovy vyhledej Apolenu.
 
 ### 5. Casino Las Vegas
 
@@ -146,6 +155,3 @@ Přijď do lobby za Filipem & Alanem znásobit svoje body nebo prohrát kalhoty.
 
 U Filipa & Alana se můžeš stát šampionem sportu. Vyzvi jiný tým na souboj v některém ze sportů až vyhraj **100 bodů**.
 
-### 7. Cháron
-
-Obstojíš před Cháronem? Pokud ano, získáš **300 bodů**. U bazénu najdi Sama.
