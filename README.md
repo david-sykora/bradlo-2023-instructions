@@ -137,6 +137,11 @@ Každý papírek má kromě barevného znázornění na sobě i alfanumerický k
 portálu vyberte svůj tým a do textového vstupu zadejte kód z papírku. Poté bude vybranému týmu přičten daný počet bodů.
 Každý papírek lze použít pouze jednou.
 
+### 4. Analfabetova výzva
+
+Vyzvěte Analfabeta v souboji o rychlost. Ve vestibulu hlavní budovy vyhledej Apolenu.
+
+
 Odevzdávací portál je dostupný na adrese: https://bradlo.testing.haxagon.xyz/static/ticket-machine.html
 
 Vyberte v něm prosím svůj tým a vyplňte secret z papírku.
