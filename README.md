@@ -6,8 +6,8 @@
 
 Je pro vás připraven Kubernetes cluster, který obsahuje následující služby o jejiž dostupnost se musíte postarat.
 
-Kontrola probíhá každou minutu a v případě, že služba bude nedostupná nebo vráti špatný výsledek, tak se týmu odečte 1
-bod.
+Kontrola probíhá každou minutu a v případě, že služba bude nedostupná nebo vráti špatný výsledek, tak se týmu odečtou 2
+body. Bodová penalizace se v průběhu soutěže zvyšuje. Navýšení bude oznámeno na Discordu a bude probíhat ve 12:00, 14:00 a 16:00.
 
 Každý tým má separátní cluster, ke kterému přistupuje přes kubeconfig, který jim bude přidělen při startu cvičení. Dále
 jsou týmu přiděleny 2 A DNS záznamy pro přístup ke službám pinguin a facebug.
