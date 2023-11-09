@@ -146,3 +146,11 @@ Vyberte v něm prosím svůj tým a vyplňte secret z papírku.
 ### 4. Analfabetova výzva
 
 Vyzvěte Analfabeta v souboji o rychlost. Ve vestibulu hlavní budovy vyhledej Apolenu.
+
+### 5. Casino Las Vegas
+
+Přijď do lobby za Filipem & Alanem znásobit svoje body nebo prohrát kalhoty.
+
+### 6. Sportovní šampion
+
+U Filipa & Alana se můžeš stát šampionem sportu. Vyzvi jiný tým na souboj v některém ze sportů až vyhraj **100 bodů**. Najdeš je u ping pongu nebo v lobby.
