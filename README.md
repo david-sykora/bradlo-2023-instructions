@@ -121,3 +121,24 @@ Do kačen zapisujte tyto idetifikátory týmů:
 - team **TOP 8**: `6519c6bc3cee6044542a1969`
 - team **Guysnickers**: `654bc83056dfa90878785e0b`
 - team **kýbl**: `654bc83d56dfa90878785e0c`
+
+### 3. Tickets
+
+Tickety neboli papirky jsou digitální prolnutí s fyzickou realitou.
+V terénu jsou rozmístěni papírky různé hodnoty. Tato hodnota je znázorněna barvou:
+
+- hnědá: 10
+- zelená: 20
+- modrá: 30
+- červená: 60
+- černá: 120
+
+Každý papírek má kromě barevného znázornění na sobě i alfanumerický kód. V prohlížeči otevřte odevzdávací portál, na
+portálu vyberte svůj tým a do textového vstupu zadejte kód z papírku. Poté bude vybranému týmu přičten daný počet bodů.
+Každý papírek lze použít pouze jednou.
+
+Odevzdávací portál je dostupný na adrese: https://bradlo.testing.haxagon.xyz/static/ticket-machine.html
+
+Vyberte v něm prosím svůj tým a vyplňte secret z papírku.
+
+> Mapu s rozmístěním vyfasujete u nás!
